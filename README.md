@@ -13,6 +13,7 @@
    - [Computación Gráfica](#computación-gráfica)
    - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
+   - [Inteligencia Artificial](#inteligencia-artificial)
 6. [Roadmap](#roadmap)
 
 ## Introducción
@@ -65,6 +66,10 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
 - ### Ingeniería de Software II
 
   - https://github.com/Afkerian/Horizon-Bank
+
+- ### Inteligencia Artificial
+  - https://github.com/Afkerian/Inteligencia-Artificial
+  - https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial
 
 ## Roadmap
 
