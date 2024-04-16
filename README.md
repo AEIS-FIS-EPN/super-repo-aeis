@@ -74,3 +74,5 @@ El desarrollo de esta aplicación está planeado a realizarse usando [Sveltekit.
 Si quieres sumarte al equipo de desarrollo de esta aplicación únete al canal de Discord https://discord.gg/HzJFhMnV
 
 No importa si no tienes conocimientos en Sveltekit, este proyecto es para aprender 🙌🏻
+
+Mi humilde aporte by RT
