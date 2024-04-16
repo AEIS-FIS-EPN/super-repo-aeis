@@ -22,13 +22,13 @@ Repositorio creado para compartir contenido de materias de la facultad de ingeni
 
 En este README encontrarás un listado de materias con links a varios repositorios de estudiantes de la FIS que ya aprobaron la materia y decidieron compartir el contenido realizado durante el semestre.
 
-Esperamos que el contenido que encuentres en este repo sea de ayuda para tu semestre 🚀.
+Esperamos que el contenido que encuentres en este repo sea de ayuda para tu semestre 🚀
 
 ## Cómo contribuir
 
 Si tienes contenido de alguna materia que te gustaría compartir simplemente edita este README y agrega el link a tu repositorio en la materia correspondiente!
 
-Si no encuentras la materia puedes agregar una sección con el nombre de la materia y añadir tu repositorio en ella 💥.
+Si no encuentras la materia puedes agregar una sección con el nombre de la materia y añadir tu repositorio en ella 💥
 
 Una vez edites el README crea un Pull request para solicitar que se incluyan los cambios que realizaste en la rama principal.
 
