@@ -33,7 +33,7 @@ Si no encuentras la materia puedes agregar una sección con el nombre de la mate
 
 Una vez edites el README crea un Pull request para solicitar que se incluyan los cambios que realizaste en la rama principal.
 
-[Reglas de contribución]()
+[Reglas de contribución](https://github.com/AEIS-FIS-EPN/super-repo-fis/blob/main/CONTRIBUTING.md)
 
 ## Repositorios
 
