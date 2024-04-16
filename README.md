@@ -5,8 +5,7 @@
 1. [Introducción](#introducción)
 2. [Cómo funciona](#cómo-funciona)
 3. [Cómo contribuir](#cómo-contribuir)
-4. [Reglas](#reglas)
-5. [Repositorios](#repositorios)
+4. [Repositorios](#repositorios)
    - [Aplicaciones Web](#aplicaciones-web)
    - [Compiladores y Lenguajes](#compiladores-y-lenguajes)
    - [Computación Distribuida](#computación-distribuida)
@@ -14,7 +13,7 @@
    - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
    - [Inteligencia Artificial](#inteligencia-artificial)
-6. [Roadmap](#roadmap)
+5. [Roadmap](#roadmap)
 
 ## Introducción
 
