@@ -11,6 +11,7 @@
    - [Compiladores y Lenguajes](#compiladores-y-lenguajes)
    - [Computación Distribuida](#computación-distribuida)
    - [Computación Gráfica](#computación-gráfica)
+   - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
 6. [Roadmap](#roadmap)
 
@@ -26,16 +27,13 @@ Esperamos que el contenido que encuentres en este repo sea de ayuda para tu seme
 
 ## Cómo contribuir
 
-Si tienes contenido de alguna materia que te gustaría compartir simplemente edita este README y agrega el link a tu repositorio en la materia correspondiente!
+Si tienes contenido de alguna materia que te gustaría compartir simplemente haz un fork al repositorio, edita este README y agrega el link a tu repositorio en la materia correspondiente!
 
 Si no encuentras la materia puedes agregar una sección con el nombre de la materia y añadir tu repositorio en ella 💥
 
 Una vez edites el README crea un Pull request para solicitar que se incluyan los cambios que realizaste en la rama principal.
 
-## Reglas
-
-- No se permite añadir pruebas, exámenes o evaluaciones de las materias.
-- Las materias deben estar ordenadas en orden alfabético.
+[Reglas de contribución]()
 
 ## Repositorios
 
@@ -57,6 +55,13 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
 
   - https://github.com/Afkerian/Computer-Graphics
 
+- ### Data Mining y Machine Learning
+
+  - ⁠https://github.com/Afkerian/Seguridad-y-Defensa-Datos-Abiertos-Ecuador
+  - ⁠ ⁠https://github.com/Afkerian/Hybrid-Recommendation-for-Drug-Discovery
+  - ⁠https://github.com/Afkerian/Data-Mining-and-Machine-Learning
+  - ⁠https://github.com/Afkerian/Beijing-Multi-Site-Air-Quality-Data-Data-Set
+
 - ### Ingeniería de Software II
 
   - https://github.com/Afkerian/Horizon-Bank
@@ -71,7 +76,7 @@ El siguiente paso del proyecto Súper Repo FIS es crear una aplicación web con 
 
 El desarrollo de esta aplicación está planeado a realizarse usando [Sveltekit.](https://kit.svelte.dev/)
 
-Si quieres sumarte al equipo de desarrollo de esta aplicación únete al canal de Discord https://discord.gg/HzJFhMnV
+Si quieres sumarte al equipo de desarrollo de esta aplicación únete al canal de Discord https://discord.gg/CPWPTbDFCE
 
 No importa si no tienes conocimientos en Sveltekit, este proyecto es para aprender 🙌🏻
 
