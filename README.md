@@ -58,7 +58,7 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
 - ### Data Mining y Machine Learning
 
   - ⁠https://github.com/Afkerian/Seguridad-y-Defensa-Datos-Abiertos-Ecuador
-  - ⁠ ⁠https://github.com/Afkerian/Hybrid-Recommendation-for-Drug-Discovery
+  - ⁠https://github.com/Afkerian/Hybrid-Recommendation-for-Drug-Discovery
   - ⁠https://github.com/Afkerian/Data-Mining-and-Machine-Learning
   - ⁠https://github.com/Afkerian/Beijing-Multi-Site-Air-Quality-Data-Data-Set
 
@@ -67,8 +67,13 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
   - https://github.com/Afkerian/Horizon-Bank
 
 - ### Inteligencia Artificial
+
   - https://github.com/Afkerian/Inteligencia-Artificial
   - https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial
+
+- ### Redes de Computadores I
+
+  - https://matardy.notion.site/Redes-de-Computadores-ac3ea1e99cf94f77a7dec98a3114f720
 
 ## Roadmap
 
