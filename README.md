@@ -13,6 +13,7 @@
    - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
    - [Inteligencia Artificial](#inteligencia-artificial)
+   - [Redes de Computadores I](#redes-de-computadores-i)
 5. [Roadmap](#roadmap)
 
 ## Introducción
