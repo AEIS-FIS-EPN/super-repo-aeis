@@ -13,6 +13,7 @@
    - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
    - [Inteligencia Artificial](#inteligencia-artificial)
+   - [Programación I](#programación-i)
    - [Redes de Computadores I](#redes-de-computadores-i)
 5. [Roadmap](#roadmap)
 
@@ -71,6 +72,10 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
 
   - https://github.com/Afkerian/Inteligencia-Artificial
   - https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial
+
+- ### Programación I
+
+  - https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/88e3ba882679738bc20d444c5aad305662d6a9a3/Primer%20Semestre/Programaci%C3%B3n%20I
 
 - ### Redes de Computadores I
 
