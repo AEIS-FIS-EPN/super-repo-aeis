@@ -13,9 +13,11 @@
    - [Data Mining y Machine Learning](#data-mining-y-machine-learning)
    - [Ingeniería de Software II](#ingeniería-de-software-ii)
    - [Inteligencia Artificial](#inteligencia-artificial)
+   - [Matemáticas Computacionales y Teoría de la Computación](#matemáticas-computacionales-y-teoría-de-la-computación)
    - [Programación I](#programación-i)
+   - [Programación II](#programación-ii)
    - [Redes de Computadores I](#redes-de-computadores-i)
-5. [Roadmap](#roadmap)
+6. [Roadmap](#roadmap)
 
 ## Introducción
 
@@ -73,9 +75,17 @@ Una vez edites el README crea un Pull request para solicitar que se incluyan los
   - https://github.com/Afkerian/Inteligencia-Artificial
   - https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial
 
+- ### Matemáticas Computacionales y Teoría de la Computación
+
+  - https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Matem%C3%A1ticas%20Computacionales
+
 - ### Programación I
 
   - https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/88e3ba882679738bc20d444c5aad305662d6a9a3/Primer%20Semestre/Programaci%C3%B3n%20I
+
+- ### Programación II
+
+  - https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Programaci%C3%B3n%20II
 
 - ### Redes de Computadores I
 
