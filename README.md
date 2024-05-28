@@ -17,7 +17,7 @@
    - [Programación I](#programación-i)
    - [Programación II](#programación-ii)
    - [Redes de Computadores I](#redes-de-computadores-i)
-6. [Roadmap](#roadmap)
+5. [Roadmap](#roadmap)
 
 ## Introducción
 
