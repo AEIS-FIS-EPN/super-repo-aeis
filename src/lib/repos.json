@@ -188,5 +188,35 @@
 		"repoUrl": "https://github.com/Cheveniko/information-retrieval-epn",
 		"author": "Cheveniko",
 		"authorUrl": "https://github.com/Cheveniko"
+	},
+	{
+		"subject": "Recuperación de Información",
+		"subjectId": "ICCD753",
+		"semester": 7,
+		"formattedSemester": "Séptimo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Cheveniko/eureka",
+		"author": "Cheveniko",
+		"authorUrl": "https://github.com/Cheveniko"
+	},
+	{
+		"subject": "Recuperación de Información",
+		"subjectId": "ICCD753",
+		"semester": 7,
+		"formattedSemester": "Séptimo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Cheveniko/search-front",
+		"author": "Cheveniko",
+		"authorUrl": "https://github.com/Cheveniko"
+	},
+	{
+		"subject": "Recuperación de Información",
+		"subjectId": "ICCD753",
+		"semester": 7,
+		"formattedSemester": "Séptimo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Cheveniko/search-back",
+		"author": "Cheveniko",
+		"authorUrl": "https://github.com/Cheveniko"
 	}
 ]
