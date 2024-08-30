@@ -1,0 +1,192 @@
+[
+	{
+		"subject": "Aplicaciones Web",
+		"subjectId": "ISWD613",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Aplicaciones-WEB",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Aplicaciones Web",
+		"subjectId": "ISWD613",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Zoo-Bo",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Compiladores y Lenguajes",
+		"subjectId": "ICCD422",
+		"semester": 4,
+		"formattedSemester": "Cuarto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Compiladores-y-Lenguajes",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Computación Distribuida",
+		"subjectId": "ICCD654",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/sockets-message-application",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Computación Distribuida",
+		"subjectId": "ICCD654",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/ComputacionDistribuida",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Computación Gráfica",
+		"subjectId": "ICCD533",
+		"semester": 5,
+		"formattedSemester": "Quinto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Computer-Graphics",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Data Mining y Machine Learning",
+		"subjectId": "ICCD623",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Seguridad-y-Defensa-Datos-Abiertos-Ecuador",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Data Mining y Machine Learning",
+		"subjectId": "ICCD623",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Hybrid-Recommendation-for-Drug-Discovery",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Data Mining y Machine Learning",
+		"subjectId": "ICCD623",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Data-Mining-and-Machine-Learning",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Data Mining y Machine Learning",
+		"subjectId": "ICCD623",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Beijing-Multi-Site-Air-Quality-Data-Data-Set",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Ingeniería de Software II",
+		"subjectId": "ICCD632",
+		"semester": 6,
+		"formattedSemester": "Sexto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Horizon-Bank",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Inteligencia Artificial",
+		"subjectId": "ICCD523",
+		"semester": 5,
+		"formattedSemester": "Quinto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Inteligencia-Artificial",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Inteligencia Artificial",
+		"subjectId": "ICCD523",
+		"semester": 5,
+		"formattedSemester": "Quinto",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial",
+		"author": "Afkerian",
+		"authorUrl": "https://github.com/Afkerian"
+	},
+	{
+		"subject": "Matemáticas Computacionales y Teoría de la Computación",
+		"subjectId": "ICCD224",
+		"semester": 2,
+		"formattedSemester": "Segundo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Matem%C3%A1ticas%20Computacionales",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Programación I",
+		"subjectId": "ICCD144",
+		"semester": 1,
+		"formattedSemester": "Primero",
+		"career": "Computación",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/88e3ba882679738bc20d444c5aad305662d6a9a3/Primer%20Semestre/Programaci%C3%B3n%20I",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Programación I",
+		"subjectId": "ICCD144",
+		"semester": 1,
+		"formattedSemester": "Primero",
+		"career": "Computación",
+		"repoUrl": "https://github.com/FernandoHuilca/Ahorcado_in_C-",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Programación II",
+		"subjectId": "ICCD244",
+		"semester": 2,
+		"formattedSemester": "Segundo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Programaci%C3%B3n%20II",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Redes de Computadores I",
+		"subjectId": "ICCD463",
+		"semester": 4,
+		"formattedSemester": "Cuarto",
+		"career": "Computación",
+		"repoUrl": "https://matardy.notion.site/Redes-de-Computadores-ac3ea1e99cf94f77a7dec98a3114f720",
+		"author": "matardy",
+		"authorUrl": "https://github.com/matardy"
+	},
+	{
+		"subject": "Recuperación de Información",
+		"subjectId": "ICCD753",
+		"semester": 7,
+		"formattedSemester": "Séptimo",
+		"career": "Computación",
+		"repoUrl": "https://github.com/Cheveniko/information-retrieval-epn",
+		"author": "Cheveniko",
+		"authorUrl": "https://github.com/Cheveniko"
+	}
+]
