@@ -1,11 +1,11 @@
-<footer class="xs:text-sm mt-auto flex justify-center gap-x-4 text-xs text-base-content/60">
+<footer class="mt-auto flex justify-center gap-x-4 text-xs text-base-content/60 xs:text-sm">
 	<a
 		href="https://www.instagram.com/aeis_epn/"
 		target="_blank"
 		class="transition-all hover:text-info">&copy; AEIS {new Date().getFullYear()}</a
 	>
 	<a
-		href="https://github.com/Cheveniko/calculadora-suple-epn"
+		href="https://github.com/AEIS-FIS-EPN/super-repo-aeis?tab=readme-ov-file#c%C3%B3mo-contribuir"
 		target="_blank"
 		class="group flex items-center gap-x-2 transition-all hover:text-info"
 	>
@@ -27,7 +27,7 @@
 		<p>Como contribuir</p>
 	</a>
 	<a
-		href="https://github.com/Cheveniko/calculadora-suple-epn"
+		href="https://github.com/AEIS-FIS-EPN/super-repo-aeis"
 		target="_blank"
 		class="group flex items-center gap-x-2 transition-all hover:text-info"
 	>
