@@ -20,6 +20,36 @@
 		"authorUrl": "https://github.com/Afkerian"
 	},
 	{
+		"subject": "Arquitectura de Computadores",
+		"subjectId": "ICCD332",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/main/Tercer%20Semestre/Arquitectura%20de%20Computadores",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Arquitectura de Computadores",
+		"subjectId": "ICCD332",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/Emulador_Arquitectura_Computacional",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Arquitectura de Computadores",
+		"subjectId": "ICCD332",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/Arquitectura_de_Von_Neumann",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
 		"subject": "Compiladores y Lenguajes",
 		"subjectId": "ICCD422",
 		"semester": 4,
@@ -100,6 +130,56 @@
 		"authorUrl": "https://github.com/Afkerian"
 	},
 	{
+		"subject": "Estructura de Datos y Algorítmos I",
+		"subjectId": "ICCD343",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/main/Tercer%20Semestre/Estructura%20de%20Datos%20y%20Algoritmos",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Estructura de Datos y Algorítmos I",
+		"subjectId": "ICCD343",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/PoliEats_ProyectoEDA",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Física",
+		"subjectId": "CNICD030",
+		"semester": 0,
+		"formattedSemester": "Nivelación",
+		"career": "Software",
+		"repoUrl": "https://aromatic-pear-bd2.notion.site/F-sica-253d9ccc46544366af60b4fd4bac5922",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Fundamentos de Matemática",
+		"subjectId": "CNICD010",
+		"semester": 0,
+		"formattedSemester": "Nivelación",
+		"career": "Software",
+		"repoUrl": "https://aromatic-pear-bd2.notion.site/Fundamentos-de-Matem-ticas-0f4a3559a9a84297be435ad67c8d35bd",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Geometría y Trigonometría",
+		"subjectId": "CNICD020",
+		"semester": 0,
+		"formattedSemester": "Nivelación",
+		"career": "Software",
+		"repoUrl": "https://aromatic-pear-bd2.notion.site/Geometr-a-y-Trigonometr-a-67fba488297d494687b306b4997a7b08",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
 		"subject": "Ingeniería de Software II",
 		"subjectId": "ICCD632",
 		"semester": 6,
@@ -130,12 +210,32 @@
 		"authorUrl": "https://github.com/Afkerian"
 	},
 	{
+		"subject": "Lenguaje y Comunicación",
+		"subjectId": "CNICD050",
+		"semester": 0,
+		"formattedSemester": "Nivelación",
+		"career": "Software",
+		"repoUrl": "https://aromatic-pear-bd2.notion.site/Lenguaje-y-Comunicaci-n-33bae165aa64484d961692af19c2a737",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
 		"subject": "Matemáticas Computacionales y Teoría de la Computación",
 		"subjectId": "ICCD224",
 		"semester": 2,
 		"formattedSemester": "Segundo",
-		"career": "Computación",
+		"career": "Software",
 		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Matem%C3%A1ticas%20Computacionales",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Probabilidad y Estadísticas Básicas",
+		"subjectId": "MATD223",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/main/Tercer%20Semestre/Probabilidad%20y%20Estad%C3%ADstica",
 		"author": "FernandoHuilca",
 		"authorUrl": "https://github.com/FernandoHuilca"
 	},
@@ -144,7 +244,7 @@
 		"subjectId": "ICCD144",
 		"semester": 1,
 		"formattedSemester": "Primero",
-		"career": "Computación",
+		"career": "Software",
 		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/88e3ba882679738bc20d444c5aad305662d6a9a3/Primer%20Semestre/Programaci%C3%B3n%20I",
 		"author": "FernandoHuilca",
 		"authorUrl": "https://github.com/FernandoHuilca"
@@ -154,7 +254,7 @@
 		"subjectId": "ICCD144",
 		"semester": 1,
 		"formattedSemester": "Primero",
-		"career": "Computación",
+		"career": "Software",
 		"repoUrl": "https://github.com/FernandoHuilca/Ahorcado_in_C-",
 		"author": "FernandoHuilca",
 		"authorUrl": "https://github.com/FernandoHuilca"
@@ -164,8 +264,18 @@
 		"subjectId": "ICCD244",
 		"semester": 2,
 		"formattedSemester": "Segundo",
-		"career": "Computación",
+		"career": "Software",
 		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/7072df1fae916cc7db1da7aff47724b555b41d2e/Segundo%20Semestre/Programaci%C3%B3n%20II",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
+	{
+		"subject": "Fundamentos de Química",
+		"subjectId": "CNICD040",
+		"semester": 0,
+		"formattedSemester": "Nivelación",
+		"career": "Software",
+		"repoUrl": "https://aromatic-pear-bd2.notion.site/Fundamentos-de-Qu-mica-541939e0ac80439c969d89dd556bd062",
 		"author": "FernandoHuilca",
 		"authorUrl": "https://github.com/FernandoHuilca"
 	},
@@ -219,4 +329,14 @@
 		"author": "Cheveniko",
 		"authorUrl": "https://github.com/Cheveniko"
 	}
+	{
+		"subject": "Sistemas Operativos",
+		"subjectId": "ICCD323",
+		"semester": 3,
+		"formattedSemester": "Tercero",
+		"career": "Software",
+		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/main/Tercer%20Semestre/Sistemas%20Operativos",
+		"author": "FernandoHuilca",
+		"authorUrl": "https://github.com/FernandoHuilca"
+	},
 ]
