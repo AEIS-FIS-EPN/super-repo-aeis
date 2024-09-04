@@ -328,7 +328,7 @@
 		"repoUrl": "https://github.com/Cheveniko/search-back",
 		"author": "Cheveniko",
 		"authorUrl": "https://github.com/Cheveniko"
-	}
+	},
 	{
 		"subject": "Sistemas Operativos",
 		"subjectId": "ICCD323",
@@ -338,5 +338,5 @@
 		"repoUrl": "https://github.com/FernandoHuilca/EPN-FernandoHuilca/tree/main/Tercer%20Semestre/Sistemas%20Operativos",
 		"author": "FernandoHuilca",
 		"authorUrl": "https://github.com/FernandoHuilca"
-	},
+	}
 ]
