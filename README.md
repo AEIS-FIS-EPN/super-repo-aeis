@@ -1,8 +1,8 @@
-# Súper Repo FIS
+# Súper Repo AEIS
 
 ## Introducción
 
-Aplicacipn web desarrollada para compartir contenido de materias de la facultad de ingeniería en sistemas de la Escuela Politécnica Nacional [(EPN)](https://www.epn.edu.ec/)
+Aplicación web desarrollada para compartir contenido de materias de la facultad de ingeniería en sistemas de la Escuela Politécnica Nacional [(EPN)](https://www.epn.edu.ec/)
 
 ## Cómo funciona
 
@@ -40,7 +40,7 @@ El siguiente paso del proyecto Súper Repo FIS es crear una aplicación web con 
 - [x] Una interfaz gráfica donde se desplieguen los repositorios de una manera accesible y rápida.
 - [x] Una barra de búsqueda de materias y repositorios.
 - [ ] Un sistema de calificación de repositorios para evaluar la utilidad de los repositorios.
-- [ ] Modo light.
+- [ ] Light mode.
 
 La aplicación está desarrollada en [Sveltekit](https://kit.svelte.dev/)
 
