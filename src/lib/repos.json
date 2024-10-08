@@ -205,6 +205,16 @@
 		"semester": 5,
 		"formattedSemester": "Quinto",
 		"career": "Computación",
+		"repoUrl": "https://github.com/Rikardo816/AI-image-classifier",
+		"author": "Rikardo816",
+		"authorUrl": "https://github.com/Rikardo816"
+	},
+	{
+		"subject": "Inteligencia Artificial",
+		"subjectId": "ICCD523",
+		"semester": 5,
+		"formattedSemester": "Quinto",
+		"career": "Computación",
 		"repoUrl": "https://github.com/Afkerian/Examen-B1-Inteligencia-Artificial",
 		"author": "Afkerian",
 		"authorUrl": "https://github.com/Afkerian"
